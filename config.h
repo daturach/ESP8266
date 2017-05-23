@@ -11,4 +11,4 @@ const char* password[] =
 const char* privateKey = "your_api_key_4_emoncms.org";
 const char* host     = "your_whatever_domain"; // Your domain
 const char* host2 = "emoncms.org";  
-String path          = "/cms/light.json";
+String path          = "/cms/light.json"; //your path to light.json
