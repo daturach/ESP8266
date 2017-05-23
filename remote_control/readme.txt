@@ -2,3 +2,5 @@ remote_control.ino and config.h belong to the same project. That sketch controls
 php_4_joomla_cms.php should be put on a server running PHP. This file is used to control the ESP/relay board running remote_control.ino
 
 Todo: update ino file to support https requests
+
+Compiled with Arduino 1.6.9
