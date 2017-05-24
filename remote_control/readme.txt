@@ -3,7 +3,6 @@ php_4_joomla_cms.php should be put on a server running PHP. This file is used to
 
 Final product:
 The relay is switching OFF/ON a 5 VDC power supply.
-![im](https://github.com/daturach/ESP8266/blob/master/remote_control/wemos_mini_and_relay_boards.jpg)
 
 https://github.com/daturach/ESP8266/blob/master/remote_control/wemos_mini_and_relay_boards.jpg
 
