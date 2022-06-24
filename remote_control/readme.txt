@@ -7,5 +7,6 @@ The relay is switching OFF/ON a 5 VDC power supply based on the settings defined
 https://github.com/daturach/ESP8266/blob/master/remote_control/wemos_mini_and_relay_boards.jpg
 
 Todo: update ino file to support https requests
+Done! Added SSL, See in folder remote_control_secure
 
 Compiled with Arduino 1.6.9
