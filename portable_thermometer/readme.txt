@@ -12,3 +12,5 @@ The Wemos should connect to the best AP according to the list provided in the co
 necessary to use a mobile phone in tethering mode.
 
 Right after the temperature is sent to the server, the thermometer goes into deep sleep during the time specified.
+
+Documentation: https://github.com/daturach/Documentation/wiki
